@@ -1,2 +1,2 @@
-rootProject.name = "design-pattern"
+rootProject.name = "design-pattern-and-dsa"
 
